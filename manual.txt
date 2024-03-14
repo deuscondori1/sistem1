@@ -1,1 +1,10 @@
-aprender comandos git block de notas personales
+aprender comandos git block de notas personales:
+git init    sirve para agregar un archivo git que seria un repositorio para agregar 
+git add .   muestra todos los arivos que tiene y se inicialiso el git init 
+git status  nos sirve para poder ver los cambios que se hicieron en nuestros archivos 
+git add .   vuelve a subir los datos cuando se hayan modificado algun archivo
+git commit -m "anade cambios o indicaciones "   sirve para hacer comit despues de que hayas hecho alguna modificacion
+git push -u origin main sube todo el contenido a github
+----------------------------------------------------------------------------------------------------------------------------------
+ojo:
+'tomar en cuenta crear un repositorio y agregar la ruta de git
