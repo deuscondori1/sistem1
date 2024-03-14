@@ -6,5 +6,9 @@ git add .   vuelve a subir los datos cuando se hayan modificado algun archivo
 git commit -m "anade cambios o indicaciones "   sirve para hacer comit despues de que hayas hecho alguna modificacion
 git push -u origin main sube todo el contenido a github
 ----------------------------------------------------------------------------------------------------------------------------------
+aprender sonre las ramas de git y github
+
+
+----------------------------------------------------------------------------------------------------------------------------------
 ojo:
 'tomar en cuenta crear un repositorio y agregar la ruta de git
